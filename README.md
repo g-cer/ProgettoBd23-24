@@ -1,4 +1,4 @@
-## Progetto Db - Corso 2023/2024
+## Progetto Bd - Corso 2023/2024
 Realizzato per il corso di Basi di Dati (BD) dell'anno accademico 2023/2024.
 
 ## Installazione
